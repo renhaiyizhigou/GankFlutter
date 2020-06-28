@@ -1,6 +1,6 @@
 # GankFlutter
 
-一款追求全新用户体验的干货集中营 flutter 版 客户端
+一款追求全新用户体验的干货集中 flutter 版 客户端
 - [GitHub IOS版本](https://github.com/ZQ330093887/GankIOSProgect)
 - [GitHub 小程序版本](https://github.com/ZQ330093887/GankWX)
 - [GitHub Android版本](https://github.com/ZQ330093887/ConurbationsAndroid)
